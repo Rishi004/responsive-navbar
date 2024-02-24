@@ -18,3 +18,4 @@ The goal of this project is to provide a straightforward example of a responsive
 
    ```bash
    git clone https://github.com/Rishi004/responsive-navbar.git
+
